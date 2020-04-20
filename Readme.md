@@ -1,7 +1,7 @@
-# This repository is intended to use for learning HTML/CSS/JS by implementing tasks from the [Task List](Tasks.md)
+# FE learning course
 
+This repository is intended to use for learning HTML/CSS/JS by implementing tasks from the [Task List](Tasks.md)
 Make sure to fetch new version of master branch once in a while to get the latest instructions.
-
 
 ## How to start
 
